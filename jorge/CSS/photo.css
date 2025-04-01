@@ -1,0 +1,10 @@
+.photo_1{
+    width: 180px;
+    height: 180px;
+    border-radius: 50px;
+  }
+  .photo_1:hover{
+    width: 200px;
+    height: 200px;
+    border-radius: 0px;
+  }

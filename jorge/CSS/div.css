@@ -1,0 +1,27 @@
+.div_1{    
+    width: 95%;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid gray ;
+    border-radius: 15px;
+    background-color: papayawhip;
+    display: inline-flex ; 
+    justify-content: center;  
+    align-items: center;   
+}
+.div_2{
+    width: 100%;
+    padding: 0%;
+    margin: 0px;
+    border-radius: 0px;
+}
+
+.div_3{
+    width: 100%;
+    padding: 0%;
+    margin: 0px;
+    border-radius: 0px;
+    background-color: red;
+    display: inline-flex ;    
+}
+
