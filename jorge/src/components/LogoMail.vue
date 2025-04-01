@@ -71,6 +71,7 @@ li{
 
 a{
     color: rgb(6, 65, 175);
+    padding-left: 10px;
 }
 
    
